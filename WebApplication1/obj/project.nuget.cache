@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cy22psZqowpUHyAWTvprfYSl36h49ryeiAXJGr7PX8xsyEfNKRQjoMkFqM0dOSTFDypViBdtyKY2mbXtnLpDBA==",
+  "dgSpecHash": "RmkYVnxzzOjjlEYLShKF2/EwRowWy6uCvkMWVx7LtHNuLh8907Yr0+Nr/0fPbHsrbx0CylF6WH0mO2aG4ccM/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexeev_da\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\alexeev_da\\source\\repos\\WebApplication1\\web app\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexeev_da\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\alexeev_da\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
